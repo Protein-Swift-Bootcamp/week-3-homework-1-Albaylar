@@ -1,4 +1,5 @@
-# Week - 3 : Homework - 1
+## Passing data 
+# Week - 3 : Homework - 1 - 
 
 => İki viewcontroller olan bir uygulama yapıyoruz
 
