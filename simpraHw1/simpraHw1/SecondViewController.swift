@@ -45,7 +45,7 @@ class SecondViewController: UIViewController {
     @IBAction func didTapToSaveProtocols(_ sender: Any) {
         var sendText = ""
         if textField.text == "" || textField.text == nil{
-            sendText = "Back To Procols."
+            sendText = "Back To Protocols."
         } else {
             sendText = textField.text!
         }
